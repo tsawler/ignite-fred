@@ -59,9 +59,11 @@ include('includes/top-of-page.php');
     <div class="divide60"></div>
 
     <div id="ignite-icons" class="row">
-        <div class="col-md-3"></div>
+        <div class="col-md-3">
+
+        </div>
         <div class="col-md-2 text-center">
-            <a href="#!">
+            <!-- <a href="#!">
                 <span class="fa-stack fa-6x">
                   <i class="fa fa-circle fa-stack-2x icon-background"></i>
                   <i class="fa fa-check fa-stack-1x"></i>
@@ -71,12 +73,25 @@ include('includes/top-of-page.php');
                 <h2>Choose
                     <strong><span class="colored-text">Frederiction</span></strong>
                 </h2>
+            </div> -->
+            <div class="circle" style="width: 12em; height: 12em">
+                <a href="#!">
+                    <span class="fa-stack fa-6x">
+                      <i class="fa fa-circle fa-stack-3x icon-background"></i>
+                      <i class="fa fa-check fa-stack-1x"></i>
+                    </span>
+                </a><br>
+                <div class="center-heading pushdown">
+                    <h2>Choose
+                        <strong><span class="colored-text">Frederiction</span></strong>
+                    </h2>
+                </div>
             </div>
 
         </div>
 
         <div class="col-md-2 text-center">
-            <a href="#!">
+            <!-- <a href="#!">
                 <span class="fa-stack fa-6x">
                   <i class="fa fa-circle fa-stack-2x icon-background"></i>
                   <i class="fa fa-gears fa-stack-1x"></i>
@@ -86,11 +101,25 @@ include('includes/top-of-page.php');
                 <h2>How We Can
                     <strong><span class="colored-text">Help</span></strong>
                 </h2>
+            </div> -->
+
+            <div class="circle" style="width: 12em; height: 12em">
+                <a href="#!">
+                    <span class="fa-stack fa-6x">
+                      <i class="fa fa-circle fa-stack-3x icon-background"></i>
+                      <i class="fa fa-gears fa-stack-1x"></i>
+                    </span>
+                </a><br>
+                <div class="center-heading pushdown">
+                    <h2>How<br>
+                        <strong><span class="colored-text">We Can Help</span></strong>
+                    </h2>
+                </div>
             </div>
         </div>
 
         <div class="col-md-2 text-center">
-            <a href="sectors.php" class="icon-ignite">
+            <!-- <a href="sectors.php" class="icon-ignite">
                 <span class="fa-stack fa-6x">
                   <i class="fa fa-circle fa-stack-2x icon-background"></i>
                   <i class="fa fa-pie-chart fa-stack-1x"></i>
@@ -100,10 +129,25 @@ include('includes/top-of-page.php');
                 <h2>Key<br>
                     <strong><span class="colored-text">Sectors</span></strong>
                 </h2>
+            </div> -->
+
+            <div class="circle" style="width: 12em; height: 12em">
+                <a href="#!">
+                    <span class="fa-stack fa-6x">
+                      <i class="fa fa-circle fa-stack-3x icon-background"></i>
+                      <i class="fa fa-pie-chart fa-stack-1x"></i>
+                    </span>
+                </a><br>
+                <div class="center-heading pushdown">
+                    <h2>Key<br>
+                        <strong><span class="colored-text">Sectors</span></strong>
+                    </h2>
+                </div>
             </div>
         </div>
     </div>
 
+    <div class="divide60"></div>
     <div class="divide60"></div>
     <div class="container">
         <div class="row">
