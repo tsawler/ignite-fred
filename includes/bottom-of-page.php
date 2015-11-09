@@ -207,10 +207,6 @@ $(document).ready(function(){
       axis: 'y',
       trigger: 'click'
     });
-
-    $('.circle').on('hover', function(){
-      $(this).toggleClass('filled');
-    });
 });
 </script>
 </body>

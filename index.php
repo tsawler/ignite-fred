@@ -112,8 +112,6 @@ include('includes/top-of-page.php');
     </div>
 
     <div class="divide60"></div>
-    <div class="divide60"></div>
-    <div class="divide60"></div>
 
     <div class="container">
         <div class="row">
