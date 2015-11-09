@@ -171,14 +171,12 @@ span.ignite-icon {
 }
 
 span.ignite-icon:hover {
-    color: #ff9928;
     color: white;
     -moz-transition: 0.7s ease-in-out;
     -o-transition: 0.7s ease-in-out;
     -webkit-transition: 0.7s ease-in-out;
     transition: 0.7s ease-in-out;
 }
-
 
 .inside-icon {
     color: white;
@@ -195,7 +193,6 @@ span.ignite-icon:hover {
     -webkit-transition: 0.7s ease-in-out;
     transition all: 0.7s ease-in-out;
 }
-
 
 #ignite-icons h2 {
     text-transform: uppercase;
