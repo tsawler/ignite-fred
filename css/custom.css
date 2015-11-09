@@ -160,6 +160,10 @@
     opacity: 0;
 }
 
+#ignite-icons {
+    color: black;
+}
+
 #ignite-icons a {
     color: #fd8500;
 }
@@ -188,13 +192,10 @@
 	border: 2px solid #fd8500;
 	border-radius: 50%;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
-	filter: alpha(opacity=60);
-	opacity: 0.6;
-
+	filter: alpha(opacity=100);
+	opacity: 1.0;
 	-webkit-box-shadow: 0 0 1px 0px rgb( 255, 255, 255);
 	box-shadow: 0 0 1px 0px rgb( 255, 255, 255);
-	width: 8px;
-	height: 8px;
 	z-index: 86;
 
 	-webkit-transition: background-color .5s ease-in-out;
@@ -202,6 +203,8 @@
 	-o-transition: background-color .5s ease-in-out;
 	-ms-transition: background-color .5s ease-in-out;
 	transition: background-color .5s ease-in-out;
+
+    width: 12em; height: 12em
 }
 
 .circle.filled {

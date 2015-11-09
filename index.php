@@ -103,7 +103,7 @@ include('includes/top-of-page.php');
                 </h2>
             </div> -->
 
-            <div class="circle" style="width: 12em; height: 12em">
+            <div class="circle" style="">
                 <a href="#!">
                     <span class="fa-stack fa-6x">
                       <i class="fa fa-circle fa-stack-3x icon-background"></i>
