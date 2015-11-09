@@ -9,7 +9,7 @@
             <div class="col-sm-6 hidden-xs text-right">
                 <ol class="breadcrumb">
                     <li><a href="https://ignitefredericton.com">Home</a></li>
-                    <li><a href="index.php">FDI</a></li>
+                    <li><a href="index.php">Locate</a></li>
                     <li><a href="sectors.php">Key Sectors</a></li>
                     <li>Natural Resources</li>
                 </ol>
@@ -17,6 +17,8 @@
         </div>
     </div>
 </div><!--breadcrumbs-->
+</div>
+<!--navbar-default-->
 
 <div class="container">
     <div class="row">

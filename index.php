@@ -2,6 +2,24 @@
 include('includes/top-of-page.php');
 ?>
 
+<div class="breadcrumb-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <h4>Locate</h4>
+            </div>
+            <div class="col-sm-6 hidden-xs text-right">
+                <ol class="breadcrumb">
+                    <li><a href="https://ignitefredericton.com">Home</a></li>
+                    <li>Locate</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div><!--breadcrumbs-->
+</div>
+<!--navbar-default-->
+
 
     <!-- slider start-->
     <div id="carousel-slider" class="carousel slide carousel-fade hidden-xs" data-pause="hover" data-ride="carousel" data-interval="4500" data-pause="">
@@ -35,6 +53,41 @@ include('includes/top-of-page.php');
         </div>
     </div>
     <!--slider end-->
+
+    <div class="divide60"></div>
+
+    <div id="ignite-icons" class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-2 text-center">
+            <a href="#!">
+                <span class="fa-stack fa-5x">
+                  <i class="fa fa-circle fa-stack-2x icon-background"></i>
+                  <i class="fa fa-check fa-stack-1x"></i>
+                </span>
+            </a><br>
+          <h3><strong>Choose Fredericton</strong></h3>
+        </div>
+
+        <div class="col-md-2 text-center">
+            <a href="#!">
+                <span class="fa-stack fa-5x">
+                  <i class="fa fa-circle fa-stack-2x icon-background"></i>
+                  <i class="fa fa-life-buoy fa-stack-1x"></i>
+                </span>
+            </a><br>
+           <h3><strong>How We<br>Can Help</strong></h3>
+        </div>
+
+        <div class="col-md-2 text-center">
+            <a href="sectors.php" class="">
+                <span class="fa-stack fa-5x">
+                  <i class="fa fa-circle fa-stack-2x icon-background"></i>
+                  <i class="fa fa-key fa-stack-1x"></i>
+                </span>
+            </a> <br>
+            <h3><strong>Key<br>Sectors</strong></h3>
+        </div>
+    </div>
 
     <div class="divide60"></div>
     <div class="container">

@@ -141,3 +141,29 @@
   position: absolute;
   height: 100%;
 }
+
+
+/****************************breadcrumb***************************/
+.breadcrumb-wrap {
+  margin-bottom: -10px;
+  padding: 5px 0;
+  background-image: url(../img/shadow-bg.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: #f6f6f6;
+  border-top: 1px solid #d2d3d4;
+  border-bottom: 1px solid #d2d3d4;
+}
+
+.icon-background {
+    color: #fd8500;
+    opacity: 50%;
+}
+
+#ignite-icons a:hover {
+    color: white;
+    -moz-transition: 0.7s ease-in-out;
+    -o-transition: 0.7s ease-in-out;
+    -webkit-transition: 0.7s ease-in-out;
+    transition: 0.7s ease-in-out;
+}
