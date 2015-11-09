@@ -149,10 +149,13 @@ include('includes/top-of-page.php');
 
     <div class="divide60"></div>
     <div class="divide60"></div>
+    <div class="divide60"></div>
+    
     <div class="container">
         <div class="row">
             <div class="col-sm-8 col-sm-offset-2">
                 <div class="center-heading">
+
                     <h2>Why Choose
                         <strong><span class="colored-text">Frederiction?</span></strong>
                     </h2>
