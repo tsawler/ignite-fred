@@ -14,14 +14,14 @@ include('includes/top-of-page.php');
         <div class="carousel-inner" role="listbox">
 
             <div class="item active">
-                <img src="/img/slider/city.jpg" alt="">
+                <img src="img/slider/city.jpg" alt="">
                 <div class="carousel-caption banner-text">
                     <h3></h3>
                 </div>
             </div>
 
             <div class="item">
-                <img src="/img/slider/evening.jpg" alt="">
+                <img src="img/slider/evening.jpg" alt="">
                 <div class="carousel-caption">
                     <h3>Fredericton</h3>
                     <p>The right choice For your next business investment</p>
