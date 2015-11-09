@@ -98,7 +98,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/">
+                <a class="navbar-brand" href="https://ignitefredericton.com">
                     <img src="img/ignite-logo-transparent.png" alt="Ignite Fredericton" style="height: 50px; width: auto; margin: 0; padding: 0; margin-top: -10px;">
                 </a>
             </div>
@@ -149,5 +149,3 @@
             <!--/.nav-collapse -->
         </div>
         <!--container-->
-
-        
