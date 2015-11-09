@@ -1,0 +1,143 @@
+/* carousel fade */
+.carousel-fade .carousel-inner .item {
+    opacity: 0;
+    transition-property: opacity;
+}
+
+.carousel-fade .carousel-inner .active {
+    opacity: 1;
+}
+
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+
+.carousel-fade .carousel-control {
+    z-index: 2;
+}
+
+.carousel-caption {
+    width: 50%;
+    text-align: left;
+    left: 0;
+    margin-bottom: 2em;
+}
+
+@media all and (transform-3d),
+(-webkit-transform-3d) {
+    .carousel-fade .carousel-inner > .item.next,
+    .carousel-fade .carousel-inner > .item.active.right {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.prev,
+    .carousel-fade .carousel-inner > .item.active.left {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.next.left,
+    .carousel-fade .carousel-inner > .item.prev.right,
+    .carousel-fade .carousel-inner > .item.active {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+/* end slider */
+
+
+.colored-text {
+    color: #fd8500;
+}
+.services-box-icon i {
+    background-color: #fd8500 !important;
+}
+
+
+/* navbar */
+.navbar-default .navbar-nav > li > a:hover {
+  color: #fd8500;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #fd8500;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  color: #fd8500;
+  background-color: transparent;
+}
+
+.item {
+    text-align: center;
+}
+.item h3 {
+    margin-top: 200px;
+    font-weight: bold;
+    font-size: 4em;
+    color: white;
+}
+
+.item p {
+    margin-top: 20px;
+    color: white;
+    font-weight: bod;
+    font-size: 2em;
+}
+
+.carousel-caption {
+  margin-left: 25%;
+  margin-right: 75%;
+  text-align: center;
+}
+
+.border-white {
+  border: 1px solid white;
+  color: white;
+}
+
+.border-white:hover {
+  background-color: white;
+  border-color: white;
+  color: #000;
+}
+
+.border-ignite {
+  border: 1px solid #fd8500;
+  color: #fd8500;
+}
+
+.border-ignite:hover {
+  background-color: #fd8500;
+  border-color: #fd8500;
+  color: #fff;
+}
+
+.sector {
+    background: #fd8500;
+    padding: 1em;
+}
+.sector p {
+    color: white;
+}
+.sector h5 {
+    color: white;
+}
+
+.no-padding.sector-bg {
+  background: url(../img/showcase-4.jpg) scroll center no-repeat;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+}
