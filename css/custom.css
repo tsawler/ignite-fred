@@ -167,3 +167,13 @@
     -webkit-transition: 0.7s ease-in-out;
     transition: 0.7s ease-in-out;
 }
+
+
+#ignite-icons h2 {
+    text-transform: uppercase;
+    line-height: 1em;
+}
+
+.fa-6x {
+    font-size: 6em;
+}

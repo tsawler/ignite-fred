@@ -31,13 +31,6 @@ include('includes/top-of-page.php');
 
         <div class="carousel-inner" role="listbox">
 
-            <div class="item active">
-                <img src="img/slider/city.jpg" alt="">
-                <div class="carousel-caption banner-text">
-                    <h3></h3>
-                </div>
-            </div>
-
             <div class="item">
                 <img src="img/slider/evening.jpg" alt="">
                 <div class="carousel-caption">
@@ -50,6 +43,15 @@ include('includes/top-of-page.php');
                 </div>
             </div>
 
+            <div class="item active">
+                <img src="img/slider/city.jpg" alt="">
+                <div class="carousel-caption banner-text">
+                    <h3></h3>
+                </div>
+            </div>
+
+
+
         </div>
     </div>
     <!--slider end-->
@@ -60,32 +62,45 @@ include('includes/top-of-page.php');
         <div class="col-md-3"></div>
         <div class="col-md-2 text-center">
             <a href="#!">
-                <span class="fa-stack fa-5x">
+                <span class="fa-stack fa-6x">
                   <i class="fa fa-circle fa-stack-2x icon-background"></i>
                   <i class="fa fa-check fa-stack-1x"></i>
                 </span>
             </a><br>
-          <h3><strong>Choose Fredericton</strong></h3>
+            <div class="center-heading">
+                <h2>Choose
+                    <strong><span class="colored-text">Frederiction</span></strong>
+                </h2>
+            </div>
+
         </div>
 
         <div class="col-md-2 text-center">
             <a href="#!">
-                <span class="fa-stack fa-5x">
+                <span class="fa-stack fa-6x">
                   <i class="fa fa-circle fa-stack-2x icon-background"></i>
-                  <i class="fa fa-life-buoy fa-stack-1x"></i>
+                  <i class="fa fa-gears fa-stack-1x"></i>
                 </span>
             </a><br>
-           <h3><strong>How We<br>Can Help</strong></h3>
+            <div class="center-heading">
+                <h2>How We Can
+                    <strong><span class="colored-text">Help</span></strong>
+                </h2>
+            </div>
         </div>
 
         <div class="col-md-2 text-center">
-            <a href="sectors.php" class="">
-                <span class="fa-stack fa-5x">
+            <a href="sectors.php" class="icon-ignite">
+                <span class="fa-stack fa-6x">
                   <i class="fa fa-circle fa-stack-2x icon-background"></i>
-                  <i class="fa fa-key fa-stack-1x"></i>
+                  <i class="fa fa-pie-chart fa-stack-1x"></i>
                 </span>
             </a> <br>
-            <h3><strong>Key<br>Sectors</strong></h3>
+            <div class="center-heading">
+                <h2>Key<br>
+                    <strong><span class="colored-text">Sectors</span></strong>
+                </h2>
+            </div>
         </div>
     </div>
 
