@@ -151,6 +151,10 @@
   border-bottom: 1px solid #d2d3d4;
 }
 
+.breadcrumb li a:hover {
+    color: #fd8500;
+}
+
 
 /**************************** sector icons home page ***************************/
 span.ignite-icon {
