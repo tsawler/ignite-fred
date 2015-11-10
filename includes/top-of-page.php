@@ -113,6 +113,7 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="index.php"><i class="fa fa-home"></i></a></li>
+                    <li class="hidden-lg hidden-md visible-xs"><a href="#!">Search</a></li>
 
                     <li class="dropdown ">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Invest Fredericton <i class="fa fa-angle-down"></i></a>

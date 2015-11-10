@@ -25,10 +25,12 @@
 }
 
 .carousel-caption {
-    width: 50%;
-    text-align: left;
-    left: 0;
-    margin-bottom: 2em;
+    top: 40%;
+    transform: translateY(-50%);
+    bottom: initial;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
 }
 
 @media all and (transform-3d),
@@ -94,12 +96,6 @@
     color: white;
     font-weight: bod;
     font-size: 2em;
-}
-
-.carousel-caption {
-  margin-left: 25%;
-  margin-right: 75%;
-  text-align: center;
 }
 
 .border-white {
