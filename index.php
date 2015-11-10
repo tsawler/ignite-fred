@@ -35,7 +35,7 @@ include('includes/top-of-page.php');
                 <img src="img/slider/evening.jpg" alt="">
                 <div class="carousel-caption">
                     <h3>Fredericton</h3>
-                    <p>The right choice For your next business investment</p>
+                    <p>Find out why we're one of the world's smartest cities</p>
                     <div class="divide20"></div>
                     <p>
                         <a href="#" class="btn border-white btn-lg">Learn More...</a>
@@ -123,7 +123,7 @@ include('includes/top-of-page.php');
                     </h2>
                     <span class="center-line"></span>
                     <p class="sub-text margin40">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit turpis et lobortis aliquet. Fusce bibendum nulla vel dapibus pharetra. Suspendisse vel enim lorem. </p>
+                        Excellence has no size. It's a way of life. It's why we're the Start-Up Capital of Canada. It's why we produce companies that punch above their weight class. <em>Way above</em>. And it's why we were named the best micro-city in North America to do business. <em>Let's talk more.</em> </p>
                 </div>
             </div>
 
@@ -140,6 +140,7 @@ include('includes/top-of-page.php');
                         <strong><span class="colored-text">Studies</span></strong>
                     </h2>
                     <span class="center-line"></span>
+                    <p class="sub-text margin40">Behind every great city are some even greater stories.</p>
                 </div>
             </div>
         </div>
@@ -368,8 +369,8 @@ include('includes/top-of-page.php');
             </div>
             <div class="col-sm-6 col-sm-offset-6 no-padding gray">
                 <div class="no-padding-inner gray">
-                    <h3 class="wow animated fadeInDownfadeInRight">Why Choose
-                        <span class="colored-text">Fredericton</span>
+                    <h3 class="wow animated fadeInDownfadeInRight">The Fredericton
+                        <span class="colored-text">Edge</span>
                     </h3>
                     <div class="services-box margin30 wow animated fadeInRight">
                         <div class="services-box-icon">
@@ -377,7 +378,7 @@ include('includes/top-of-page.php');
                         </div>
                         <!--services icon-->
                         <div class="services-box-info">
-                            <h4>Highly Skilled Workforce</h4>
+                            <h4>Young Skilled Workforce</h4>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing metus. elit. Quisque rutrum pellentesque imperdiet.
                             </p>
@@ -404,7 +405,7 @@ include('includes/top-of-page.php');
                         </div>
                         <!--services icon-->
                         <div class="services-box-info">
-                            <h4>Strategic Location</h4>
+                            <h4>The Living Lab</h4>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing metus. elit. Quisque rutrum pellentesque imperdiet.
                             </p>
@@ -421,7 +422,85 @@ include('includes/top-of-page.php');
     <!--wide image showcase end-->
 
 
-    <div class="divide40"></div>
+    <div class="divide70"></div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="center-heading">
+                    <h2>
+                        <strong>latest</strong><span class="colored-text"> news</span></h2>
+                    <span class="center-line"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4 margin30">
+                <div>
+                    <a href="#">
+                        <div class="item-img-wrap">
+                            <img src="img/img-8.jpg" class="img-responsive" alt="workimg">
+                            <div class="item-img-overlay">
+                                <span></span>
+                            </div>
+                        </div>
+                    </a>
+                    <!--news link-->
+                    <div class="news-desc">
+                        <span>category</span>
+                        <h4><a href="#">Lorem ipsum dollor Sit amet</a></h4>
+                        <span>By <a href="#">Author</a> on 24 july 2015</span>
+                        <span><a href="#">Read more...</a></span>
+                    </div>
+                    <!--news desc-->
+                </div>
+            </div>
+            <!--news col-->
+            <div class="col-sm-4 margin30">
+                <div>
+                    <a href="#">
+                        <div class="item-img-wrap">
+                            <img src="img/img-3.jpg" class="img-responsive" alt="workimg">
+                            <div class="item-img-overlay">
+                                <span></span>
+                            </div>
+                        </div>
+                    </a>
+                    <!--news link-->
+                    <div class="news-desc">
+                        <span>category</span>
+                        <h4><a href="#">Lorem ipsum dollor Sit amet</a></h4>
+                        <span>By <a href="#">Author</a> on 24 july 2015</span>
+                        <span><a href="#">Read more...</a></span>
+                    </div>
+                    <!--news desc-->
+                </div>
+            </div>
+            <!--news col-->
+            <div class="col-sm-4 margin30">
+                <div>
+                    <a href="#">
+                        <div class="item-img-wrap">
+                            <img src="img/img-6.jpg" class="img-responsive" alt="workimg">
+                            <div class="item-img-overlay">
+                                <span></span>
+                            </div>
+                        </div>
+                    </a>
+                    <!--news link-->
+                    <div class="news-desc">
+                        <span>category</span>
+                        <h4><a href="#">Lorem ipsum dollor Sit amet</a></h4>
+                        <span>By <a href="#">Author</a> on 24 july 2015</span>
+                        <span><a href="#">Read more...</a></span>
+                    </div>
+                    <!--news desc-->
+                </div>
+            </div>
+            <!--news col-->
+        </div>
+    </div>
+    <!--latest news-->
 
     <div class="our-team-v-2">
         <div class="container">
@@ -505,84 +584,7 @@ include('includes/top-of-page.php');
         </div>
     </div>
     <!--our team v-2-->
-    <div class="divide70"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="center-heading">
-                    <h2>
-                        <strong>latest</strong><span class="colored-text"> news</span></h2>
-                    <span class="center-line"></span>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-4 margin30">
-                <div>
-                    <a href="#">
-                        <div class="item-img-wrap">
-                            <img src="img/img-8.jpg" class="img-responsive" alt="workimg">
-                            <div class="item-img-overlay">
-                                <span></span>
-                            </div>
-                        </div>
-                    </a>
-                    <!--news link-->
-                    <div class="news-desc">
-                        <span>category</span>
-                        <h4><a href="#">Lorem ipsum dollor Sit amet</a></h4>
-                        <span>By <a href="#">Author</a> on 24 july 2015</span>
-                        <span><a href="#">Read more...</a></span>
-                    </div>
-                    <!--news desc-->
-                </div>
-            </div>
-            <!--news col-->
-            <div class="col-sm-4 margin30">
-                <div>
-                    <a href="#">
-                        <div class="item-img-wrap">
-                            <img src="img/img-3.jpg" class="img-responsive" alt="workimg">
-                            <div class="item-img-overlay">
-                                <span></span>
-                            </div>
-                        </div>
-                    </a>
-                    <!--news link-->
-                    <div class="news-desc">
-                        <span>category</span>
-                        <h4><a href="#">Lorem ipsum dollor Sit amet</a></h4>
-                        <span>By <a href="#">Author</a> on 24 july 2015</span>
-                        <span><a href="#">Read more...</a></span>
-                    </div>
-                    <!--news desc-->
-                </div>
-            </div>
-            <!--news col-->
-            <div class="col-sm-4 margin30">
-                <div>
-                    <a href="#">
-                        <div class="item-img-wrap">
-                            <img src="img/img-6.jpg" class="img-responsive" alt="workimg">
-                            <div class="item-img-overlay">
-                                <span></span>
-                            </div>
-                        </div>
-                    </a>
-                    <!--news link-->
-                    <div class="news-desc">
-                        <span>category</span>
-                        <h4><a href="#">Lorem ipsum dollor Sit amet</a></h4>
-                        <span>By <a href="#">Author</a> on 24 july 2015</span>
-                        <span><a href="#">Read more...</a></span>
-                    </div>
-                    <!--news desc-->
-                </div>
-            </div>
-            <!--news col-->
-        </div>
-    </div>
-    <!--latest news-->
+
 
 
 

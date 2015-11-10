@@ -67,8 +67,16 @@
                 </div>
                 <div class="col-sm-8 text-right">
                     <ul class="list-inline top-dark-right">
-                        <li class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i> info@ignitefredericton.com</li>
-                        <li class="hidden-sm hidden-xs"><i class="fa fa-phone"></i> 506.444.4686</li>
+                        <li class="hidden-sm hidden-xs">
+                            <a href="mailto:info@ignitefredericton.com">
+                                <i class="fa fa-envelope"></i> info@ignitefredericton.com
+                            </a>
+                        </li>
+                        <li class="hidden-sm hidden-xs">
+                            <a href="tel:15064444686">
+                                <i class="fa fa-phone"></i> 506.444.4686
+                            </a>
+                        </li>
                         <li>
                             <a class="topbar-icons" href="#!">
                                 <span><i class="fa fa-search top-search"></i></span>

@@ -25,7 +25,7 @@
         <div class="col-md-12">
             <h2>Key Sectors</h2>
             <p class="lead">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut turpis magna, sodales quis ultrices non, semper id lorem. Duis sit amet ante vitae metus imperdiet pulvinar. Cras a rutrum felis. Nunc vel orci eget enim ultricies cursus. Suspendisse massa felis, varius ut egestas faucibus, condimentum at ligula.
+                What happens when engineering royalty share the same building as IT trendsetters? When aerospace upstarts mix with agriculture titans? When biotechnology grows up with oil &amp; gas? Innovation. Find out why Fredericton's key economic sectors produce companies that get noticed.
             </p>
         </div>
     </div>
