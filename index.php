@@ -6,9 +6,8 @@ include('includes/top-of-page.php');
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <h4>Locate</h4>
             </div>
-            <div class="col-sm-6 hidden-xs text-right">
+            <div class="col-sm-6 text-right">
                 <ol class="breadcrumb">
                     <li><a href="https://ignitefredericton.com">Home</a></li>
                     <li>Locate</li>
@@ -132,12 +131,108 @@ include('includes/top-of-page.php');
     </div>
     <div class="divide50"></div>
 
+
     <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="center-heading">
+
+                    <h2>The Frederiction
+                        <strong><span class="colored-text">Edge</span></strong>
+                    </h2>
+                    <span class="center-line"></span>
+                </div>
+            </div>
+
+        </div>
+        <!--center heading end-->
+    </div>
+
+
+
+    <div class="container">
+
+        <div class="cube-masonry">
+
+            <div id="masnory-container-value-prop" class="cbp">
+
+                <div class="cbp-item valprop">
+                    <a class="cbp-caption cbp-lightbox" data-title="Young Smart Workforce" href="img/mas-1.jpg">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/mas-1.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">Young Smart Workforce</div>
+                                    <div class="cbp-l-caption-desc">Lorem Ipsum</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="cbp-item valprop">
+                    <a class="cbp-caption cbp-lightbox" data-title="Cost Advantage" href="img/mas-1.jpg">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/mas-1.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">Cost Advantage</div>
+                                    <div class="cbp-l-caption-desc">Lorem Ipsum</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="cbp-item valprop">
+                    <a class="cbp-caption cbp-lightbox" data-title="The Living Lab" href="img/mas-1.jpg">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/mas-1.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">The Living Lab</div>
+                                    <div class="cbp-l-caption-desc">Lorem ipsum</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="cbp-item valprop">
+                    <a class="cbp-caption cbp-lightbox" data-title="Something Else" href="img/mas-1.jpg">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/mas-1.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">Something Else</div>
+                                    <div class="cbp-l-caption-desc">Lorem Ipsum</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="divide20"></div>
+    <div class="divide70"></div>
+
+    <div class="container hidden-xs">
         <div class="row">
             <div class="col-md-12">
                 <div class="center-heading">
-                    <h2>Case
-                        <strong><span class="colored-text">Studies</span></strong>
+                    <h2>Why People Choose
+                        <strong><span class="colored-text">Fredericton</span></strong>
                     </h2>
                     <span class="center-line"></span>
                     <p class="sub-text margin40">Behind every great city are some even greater stories.</p>
@@ -354,72 +449,11 @@ include('includes/top-of-page.php');
                 </div>
             </div>
         </div>
-        <!--.cube masonry-->
+
     </div>
     <div class="divide50"></div>
 
-    <div class="divide50"></div>
-    <div class="wide-img-showcase">
 
-        <div class="row margin-0 wide-img-showcase-row">
-            <div class="col-sm-6 no-padding  img-2">
-                <div class="no-padding-inner ">
-                    <div>&nbsp;</div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-sm-offset-6 no-padding gray">
-                <div class="no-padding-inner gray">
-                    <h3 class="wow animated fadeInDownfadeInRight">The Fredericton
-                        <span class="colored-text">Edge</span>
-                    </h3>
-                    <div class="services-box margin30 wow animated fadeInRight">
-                        <div class="services-box-icon">
-                            <i class="fa fa-tablet"></i>
-                        </div>
-                        <!--services icon-->
-                        <div class="services-box-info">
-                            <h4>Young Skilled Workforce</h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing metus. elit. Quisque rutrum pellentesque imperdiet.
-                            </p>
-                        </div>
-                    </div>
-                    <!--service box-->
-                    <div class="services-box margin30 wow animated fadeInRight">
-                        <div class="services-box-icon">
-                            <i class="fa fa-twitter"></i>
-                        </div>
-                        <!--services icon-->
-                        <div class="services-box-info">
-                            <h4>Cost Advantage</h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing metus. elit. Quisque rutrum pellentesque imperdiet.
-                            </p>
-                        </div>
-                    </div>
-                    <!--service box-->
-
-                    <div class="services-box margin30 wow animated fadeInRight">
-                        <div class="services-box-icon">
-                            <i class="fa fa-code"></i>
-                        </div>
-                        <!--services icon-->
-                        <div class="services-box-info">
-                            <h4>The Living Lab</h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing metus. elit. Quisque rutrum pellentesque imperdiet.
-                            </p>
-                        </div>
-                        <div class="divide30"></div>
-                        <p><a href="#" class="btn border-ignite btn-lg">Learn More...</a></p>
-                    </div>
-                    <!--service box-->
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--wide image showcase end-->
 
 
     <div class="divide70"></div>

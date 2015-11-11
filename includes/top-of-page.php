@@ -12,23 +12,21 @@
     <!-- font awesome for icons -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!-- flex slider css -->
-    <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
+    <!-- <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen"> -->
     <!-- animated css  -->
     <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen">
     <!-- Revolution Style-sheet -->
-    <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css">
-    <link rel="stylesheet" type="text/css" href="css/rev-style.css">
+    <!-- <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="css/rev-style.css"> -->
     <!--owl carousel css-->
-    <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
-    <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
+    <!-- <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen"> -->
     <!--mega menu -->
     <link href="css/yamm.css" rel="stylesheet" type="text/css">
     <!--cube css-->
     <link href="cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css">
     <!-- custom css-->
     <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -43,23 +41,19 @@
             <div class="row">
                 <div class="col-sm-4 hidden-xs">
                     <div class="top-bar-socials">
-                        <a href="#" class="social-icon-sm si-dark si-gray-round si-colored-facebook">
+                        <a href="#" class="social-icon-sm si-gray-round">
                             <i class="fa fa-facebook"></i>
                             <i class="fa fa-facebook"></i>
                         </a>
-                        <a href="#" class="social-icon-sm si-dark si-gray-round si-colored-twitter">
+                        <a href="#" class="social-icon-sm si-gray-round">
                             <i class="fa fa-twitter"></i>
                             <i class="fa fa-twitter"></i>
                         </a>
-                        <a href="#" class="social-icon-sm si-dark si-gray-round si-colored-google-plus">
-                            <i class="fa fa-google-plus"></i>
-                            <i class="fa fa-google-plus"></i>
-                        </a>
-                        <a href="#" class="social-icon-sm si-dark si-gray-round si-colored-linkedin">
+                        <a href="#" class="social-icon-sm si-gray-round">
                             <i class="fa fa-linkedin"></i>
                             <i class="fa fa-linkedin"></i>
                         </a>
-                        <a href="#" class="social-icon-sm si-dark si-gray-round si-colored-google-plus">
+                        <a href="#" class="social-icon-sm si-gray-round">
                             <i class="fa fa-youtube"></i>
                             <i class="fa fa-youtube"></i>
                         </a>
@@ -95,6 +89,7 @@
         </div>
     </div>
     <!--top-bar-dark end-->
+    
     <!--navigation -->
     <!-- Static navbar -->
     <div class="navbar navbar-default navbar-static-top yamm sticky" role="navigation">
@@ -107,7 +102,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="https://ignitefredericton.com">
-                    <img src="img/ignite-logo-transparent.png" alt="Ignite Fredericton" style="height: 50px; width: auto; margin: 0; padding: 0; margin-top: -10px;">
+                    <img src="img/ignite-logo-transparent.png" alt="Ignite Fredericton" style="height: 70px; width: auto; margin: 0; padding: 0; margin-top: -25px;">
                 </a>
             </div>
             <div class="navbar-collapse collapse">
@@ -151,6 +146,10 @@
                         </ul>
                     </li>
                     <!--/Key sectors-->
+
+                    <li class="dropdown">
+                        <a href="">Blog</a>
+                    </li>
 
 
                 </ul>

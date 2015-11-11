@@ -4,9 +4,8 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <h4>Natural Resources</h4>
             </div>
-            <div class="col-sm-6 hidden-xs text-right">
+            <div class="col-sm-6 text-right">
                 <ol class="breadcrumb">
                     <li><a href="https://ignitefredericton.com">Home</a></li>
                     <li><a href="index.php">Locate</a></li>
