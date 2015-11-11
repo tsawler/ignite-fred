@@ -130,7 +130,7 @@ include('includes/top-of-page.php');
                     </h2>
                     <span class="center-line"></span>
                     <p class="sub-text margin40">
-                        Why is Fredericton Fredericton the right choice for your next business investment? Maybe
+                        Why is Fredericton the right choice for your next business investment? Maybe
                         it's our highly educated, young workforce. Or maybe it's the  attractive cost structure, or
                         our second-to-none lifestyle. There's a reason why we're the Start-up Capital of Canada.
                     </p>
