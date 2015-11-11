@@ -57,54 +57,50 @@ include('includes/top-of-page.php');
 
     <div class="divide60"></div>
 
-    <div id="ignite-icons" class="row">
-        <div class="col-md-3">
+    <div class="container">
 
-        </div>
-        <div class="col-md-2 text-center">
+        <div id="ignite-icons" class="row">
 
-            <a href="#!">
-                <span class="fa-stack fa-ignite ignite-icon" style="">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-flag fa-stack-1x fa-inverse inside-icon"></i>
-                </span>
-            </a>
-            <div class="center-heading pushdown">
-                <h2>Choose
-                    <strong><span class="colored-text">Frederiction</span></strong>
-                </h2>
+            <div class="col-md-4 text-center">
+                <a href="#!">
+                    <span class="fa-stack fa-ignite ignite-icon" style="">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-flag fa-stack-1x fa-inverse inside-icon"></i>
+                    </span>
+                </a>
+                <div class="center-heading pushdown">
+                    <h2>Choose<br>
+                        <strong><span class="colored-text">Frederiction</span></strong>
+                    </h2>
+                </div>
             </div>
 
-        </div>
-
-        <div class="col-md-2 text-center">
-
-            <a href="#!">
-                <span class="fa-stack fa-ignite ignite-icon" style="">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-gears fa-stack-1x fa-inverse inside-icon"></i>
-                </span>
-            </a>
-            <div class="center-heading pushdown">
-                <h2>How<br>
-                    <strong><span class="colored-text">We Can Help</span></strong>
-                </h2>
+            <div class="col-md-4 text-center">
+                <a href="#!">
+                    <span class="fa-stack fa-ignite ignite-icon" style="">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-gears fa-stack-1x fa-inverse inside-icon"></i>
+                    </span>
+                </a>
+                <div class="center-heading pushdown">
+                    <h2>How<br>
+                        <strong><span class="colored-text">We Can Help</span></strong>
+                    </h2>
+                </div>
             </div>
 
-        </div>
-
-        <div class="col-md-2 text-center">
-
-            <a href="sectors.php">
-                <span class="fa-stack fa-ignite ignite-icon" style="">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-pie-chart fa-stack-1x fa-inverse inside-icon"></i>
-                </span>
-            </a>
-            <div class="center-heading pushdown">
-                <h2>Key<br>
-                    <strong><span class="colored-text">Sectors</span></strong>
-                </h2>
+            <div class="col-md-4 text-center">
+                <a href="sectors.php">
+                    <span class="fa-stack fa-ignite ignite-icon" style="">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-pie-chart fa-stack-1x fa-inverse inside-icon"></i>
+                    </span>
+                </a>
+                <div class="center-heading pushdown">
+                    <h2>Key<br>
+                        <strong><span class="colored-text">Sectors</span></strong>
+                    </h2>
+                </div>
             </div>
 
         </div>

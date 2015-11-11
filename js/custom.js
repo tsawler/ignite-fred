@@ -1,7 +1,7 @@
 /*Theme    : assan
  * Author  : Design_mylife
  * Version : V1.8
- * 
+ *
  */
 
  $( window ).resize(function() {
@@ -31,17 +31,17 @@ $(document).ready(function () {
 
 
 //parallax
-$(document).ready(function () {
-    $(window).stellar({
-        horizontalScrolling: false,
-        responsive: true/*,
-         scrollProperty: 'scroll',
-         parallaxElements: false,
-         horizontalScrolling: false,
-         horizontalOffset: 0,
-         verticalOffset: 0*/
-    });
-});
+// $(document).ready(function () {
+//     $(window).stellar({
+//         horizontalScrolling: false,
+//         responsive: true/*,
+//          scrollProperty: 'scroll',
+//          parallaxElements: false,
+//          horizontalScrolling: false,
+//          horizontalOffset: 0,
+//          verticalOffset: 0*/
+//     });
+// });
 
 //owl carousel for work
 $(document).ready(function () {
@@ -122,12 +122,12 @@ $(document).ready(function () {
 /* ==============================================
  Counter Up
  =============================================== */
-jQuery(document).ready(function ($) {
-    $('.counter').counterUp({
-        delay: 10,
-        time: 800
-    });
-});
+// jQuery(document).ready(function ($) {
+//     $('.counter').counterUp({
+//         delay: 10,
+//         time: 800
+//     });
+// });
 
 
 
@@ -144,23 +144,23 @@ $('.show-image').magnificPopup({type: 'image'});
  flex slider
  =============================================== */
 
-$(document).ready(function () {
-$('.main-flex-slider,.testi-slide').flexslider({
-    slideshowSpeed: 5000,
-    directionNav: false,
-    animation: "fade"
-});
-});
-//OWL CAROUSEL
-$(document).ready(function () {
-$("#clients-slider").owlCarousel({
-    autoPlay: 3000,
-    pagination: false,
-    items: 4,
-    itemsDesktop: [1199, 3],
-    itemsDesktopSmall: [991, 2]
-});
-});
+// $(document).ready(function () {
+// $('.main-flex-slider,.testi-slide').flexslider({
+//     slideshowSpeed: 5000,
+//     directionNav: false,
+//     animation: "fade"
+// });
+// });
+// //OWL CAROUSEL
+// $(document).ready(function () {
+// $("#clients-slider").owlCarousel({
+//     autoPlay: 3000,
+//     pagination: false,
+//     items: 4,
+//     itemsDesktop: [1199, 3],
+//     itemsDesktopSmall: [991, 2]
+// });
+// });
 
 
 /*========tooltip and popovers====*/
@@ -194,19 +194,19 @@ $(document).ready(function () {
     });
 });
 
- //Search         
+ //Search
     (function () {
 
         $('.top-search').on('click', function() {
             $('.search').fadeIn(500, function() {
               $(this).toggleClass('search-toggle');
-            });     
+            });
         });
 
         $('.search-close').on('click', function() {
             $('.search').fadeOut(500, function() {
                 $(this).removeClass('search-toggle');
-            }); 
+            });
         });
 
     }());
@@ -224,5 +224,3 @@ $(document).ready(function () {
             $(this).closest('.panel-heading').addClass('active');
         }
     });
-    
- 

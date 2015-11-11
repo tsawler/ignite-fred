@@ -230,5 +230,10 @@ span.ignite-icon:hover {
 }
 
 
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
 /* hack for scroll bar horiz */
 body { overflow-x: hidden;}
