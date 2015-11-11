@@ -118,28 +118,20 @@ include('includes/top-of-page.php');
                     </h2>
                     <span class="center-line"></span>
                     <p class="sub-text margin40">
-                        Excellence has no size. It's a way of life. It's why we're the Start-Up Capital of Canada. It's why we produce companies that punch above their weight class. <em>Way above</em>. And it's why we were named the best micro-city in North America to do business. <em>Let's talk more.</em> </p>
-                </div>
-            </div>
+                        Excellence has no size. It's a way of life. It's why we're the Start-Up Capital of Canada.
+                        It's why we produce companies that punch above their weight class. <em>Way above</em>.
+                        And it's why we were named the best micro-city in North America to do business.
+                        <em>Let's talk more.</em>
+                    </p>
 
-        </div>
-        <!--center heading end-->
-    </div>
-    <div class="divide50"></div>
-
-
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-8 col-sm-offset-2">
-                <div class="center-heading">
-
+                    <span class="center-line"></span>
                     <h2>The Frederiction
                         <strong><span class="colored-text">Edge</span></strong>
                     </h2>
                     <span class="center-line"></span>
                     <p class="sub-text margin40">
                         Why is Fredericton Fredericton the right choice for your next business investment? Maybe
-                        it's our highly educated, young workforce. Or maybe it's the  attractive cost structure,
+                        it's our highly educated, young workforce. Or maybe it's the  attractive cost structure, or
                         our second-to-none lifestyle. There's a reason why we're the Start-up Capital of Canada.
                     </p>
                 </div>
@@ -192,7 +184,7 @@ include('includes/top-of-page.php');
                 <div class="cbp-item valprop">
                     <a class="cbp-caption cbp-lightbox" data-title="The Living Lab" href="img/mas-1.jpg">
                         <div class="cbp-caption-defaultWrap">
-                            <img src="img/mas-1.jpg" alt="">
+                            <img src="img/value-prop/lab.jpg" alt="">
                         </div>
                         <div class="cbp-caption-activeWrap">
                             <div class="cbp-l-caption-alignCenter">
@@ -208,12 +200,12 @@ include('includes/top-of-page.php');
                 <div class="cbp-item valprop">
                     <a class="cbp-caption cbp-lightbox" data-title="Something Else" href="img/mas-1.jpg">
                         <div class="cbp-caption-defaultWrap">
-                            <img src="img/mas-1.jpg" alt="">
+                            <img src="img/value-prop/bike.jpg" alt="">
                         </div>
                         <div class="cbp-caption-activeWrap">
                             <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                    <div class="cbp-l-caption-title">Something Else</div>
+                                    <div class="cbp-l-caption-title">Superb Lifestyle</div>
                                     <div class="cbp-l-caption-desc">Lorem Ipsum</div>
                                 </div>
                             </div>
