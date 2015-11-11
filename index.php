@@ -137,6 +137,11 @@ include('includes/top-of-page.php');
                         <strong><span class="colored-text">Edge</span></strong>
                     </h2>
                     <span class="center-line"></span>
+                    <p class="sub-text margin40">
+                        Why is Fredericton Fredericton the right choice for your next business investment? Maybe
+                        it's our highly educated, young workforce. Or maybe it's the  attractive cost structure,
+                        our second-to-none lifestyle. There's a reason why we're the Start-up Capital of Canada.
+                    </p>
                 </div>
             </div>
 
@@ -155,7 +160,7 @@ include('includes/top-of-page.php');
                 <div class="cbp-item valprop">
                     <a class="cbp-caption cbp-lightbox" data-title="Young Smart Workforce" href="img/mas-1.jpg">
                         <div class="cbp-caption-defaultWrap">
-                            <img src="img/mas-1.jpg" alt="">
+                            <img src="img/value-prop/typing.jpg" alt="">
                         </div>
                         <div class="cbp-caption-activeWrap">
                             <div class="cbp-l-caption-alignCenter">
@@ -171,7 +176,7 @@ include('includes/top-of-page.php');
                 <div class="cbp-item valprop">
                     <a class="cbp-caption cbp-lightbox" data-title="Cost Advantage" href="img/mas-1.jpg">
                         <div class="cbp-caption-defaultWrap">
-                            <img src="img/mas-1.jpg" alt="">
+                            <img src="img/value-prop/handshake.jpg" alt="">
                         </div>
                         <div class="cbp-caption-activeWrap">
                             <div class="cbp-l-caption-alignCenter">
