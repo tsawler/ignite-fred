@@ -24,12 +24,6 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="#" class="social-icon si-dark si-gray-round si-colored-google-plus">
-                                    <i class="fa fa-google-plus"></i>
-                                    <i class="fa fa-google-plus"></i>
-                                </a>
-                            </li>
-                            <li>
                                 <a href="#" class="social-icon si-dark si-gray-round si-colored-pinterest">
                                     <i class="fa fa-youtube"></i>
                                     <i class="fa fa-youtube"></i>
@@ -157,13 +151,13 @@
 <!--sticky header-->
 <script type="text/javascript" src="js/jquery.sticky.js"></script>
 <!--flex slider plugin-->
-<script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
+<!-- <script src="js/jquery.flexslider-min.js" type="text/javascript"></script> -->
 <!--parallax background plugin-->
-<script src="js/jquery.stellar.min.js" type="text/javascript"></script>
+<!-- <script src="js/jquery.stellar.min.js" type="text/javascript"></script> -->
 <!--digit countdown plugin-->
 <script src="js/waypoints.min.js"></script>
 <!--digit countdown plugin-->
-<script src="js/jquery.counterup.min.js" type="text/javascript"></script>
+<!-- <script src="js/jquery.counterup.min.js" type="text/javascript"></script> -->
 <!--on scroll animation-->
 <script src="js/wow.min.js" type="text/javascript"></script>
 <!--owl carousel slider-->
@@ -174,9 +168,9 @@
 <script src="js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
 <!--customizable plugin edit according to your needs-->
 <script src="js/custom.js" type="text/javascript"></script>
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<!-- <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="js/revolution-custom.js"></script>
+<script type="text/javascript" src="js/revolution-custom.js"></script> -->
 <!--cube portfolio plugin-->
 <script src="cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
 <script src="js/cube-portfolio.js" type="text/javascript"></script>
