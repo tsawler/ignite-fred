@@ -162,27 +162,22 @@ $(document).ready(function(){
       axis: 'y',
       trigger: 'click'
     });
-});
-$(document).ready(function(){
+
     $("#engineering").flip({
       axis: 'y',
       trigger: 'click'
     });
-});
-$(document).ready(function(){
+
     $("#information-technology").flip({
       axis: 'y',
       trigger: 'click'
     });
-});
-$(document).ready(function(){
+
     $("#biotechnology").flip({
       axis: 'y',
       trigger: 'click'
     });
-});
 
-$(document).ready( function() {
      $('#whychoose').cubeportfolio({
          layoutMode: 'grid',
          defaultFilter: '*',
