@@ -153,7 +153,7 @@
 <!--flex slider plugin-->
 <!-- <script src="js/jquery.flexslider-min.js" type="text/javascript"></script> -->
 <!--parallax background plugin-->
-<!-- <script src="js/jquery.stellar.min.js" type="text/javascript"></script> -->
+<script src="js/jquery.stellar.min.js" type="text/javascript"></script>
 <!--digit countdown plugin-->
 <script src="js/waypoints.min.js"></script>
 <!--digit countdown plugin-->
