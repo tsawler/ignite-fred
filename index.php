@@ -119,6 +119,7 @@ include('includes/top-of-page.php');
                     <span class="center-line"></span>
                     <p class="sub-text margin40">
                         Excellence has no size. It's a way of life. It's why we're the Start-Up Capital of Canada.
+                        It’s why world class companies choose to locate here.
                         It's why we produce companies that punch above their weight class. <em>Way above</em>.
                         And it's why we were named the best micro-city in North America to do business.
                         <em>Let's talk more.</em>

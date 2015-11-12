@@ -110,6 +110,8 @@
                     </div>
                 </div>
             </div>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p>
         </div>
         <div class="col-md-3">
             <div id="information-technology">
@@ -128,6 +130,8 @@
                     </div>
                 </div>
             </div>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p>
         </div>
         <div class="col-md-3">
             <div id="engineering">
@@ -146,6 +150,8 @@
                     </div>
                 </div>
             </div>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p>
         </div>
         <div class="col-md-3">
             <div id="biotechnology">
@@ -164,6 +170,8 @@
                     </div>
                 </div>
             </div>
+            <div class="clearfix"></div>
+            <p>&nbsp;</p>
         </div>
     </div>
 <div class="divide60">&nbsp;</div>
