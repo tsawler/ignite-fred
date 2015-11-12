@@ -12,25 +12,25 @@
                         </p>
                         <ul class="list-inline footer-social">
                             <li>
-                                <a href="#" class="social-icon si-dark si-gray-round si-colored-facebook">
+                                <a href="https://www.facebook.com/IgniteFredericton" target="_blank" class="social-icon si-dark si-gray-round si-colored-facebook">
                                     <i class="fa fa-facebook"></i>
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" class="social-icon si-dark si-gray-round si-colored-twitter">
+                                <a href="http://twitter.com/ignitefrednb" target="_blank" class="social-icon si-dark si-gray-round si-colored-twitter">
                                     <i class="fa fa-twitter"></i>
                                     <i class="fa fa-twitter"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" class="social-icon si-dark si-gray-round si-colored-pinterest">
+                                <a href="https://www.youtube.com/channel/UCiI4UC4awtn3cRfNQqF15ZQ" target="_blank" class="social-icon si-dark si-gray-round si-colored-pinterest">
                                     <i class="fa fa-youtube"></i>
                                     <i class="fa fa-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" class="social-icon si-dark si-gray-round si-colored-linkedin">
+                                <a href="http://www.linkedin.com/company/ignite-fredericton" target="_blank" class="social-icon si-dark si-gray-round si-colored-linkedin">
                                     <i class="fa fa-linkedin"></i>
                                     <i class="fa fa-linkedin"></i>
                                 </a>

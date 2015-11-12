@@ -41,19 +41,19 @@
             <div class="row">
                 <div class="col-sm-4 hidden-xs">
                     <div class="top-bar-socials">
-                        <a href="#" class="social-icon-sm si-gray-round">
+                        <a href="https://www.facebook.com/IgniteFredericton" target="_blank" class="social-icon-sm si-gray-round">
                             <i class="fa fa-facebook"></i>
                             <i class="fa fa-facebook"></i>
                         </a>
-                        <a href="#" class="social-icon-sm si-gray-round">
+                        <a href="http://twitter.com/ignitefrednb" target="_blank" class="social-icon-sm si-gray-round">
                             <i class="fa fa-twitter"></i>
                             <i class="fa fa-twitter"></i>
                         </a>
-                        <a href="#" class="social-icon-sm si-gray-round">
+                        <a href="http://www.linkedin.com/company/ignite-fredericton" target="_blank" class="social-icon-sm si-gray-round">
                             <i class="fa fa-linkedin"></i>
                             <i class="fa fa-linkedin"></i>
                         </a>
-                        <a href="#" class="social-icon-sm si-gray-round">
+                        <a href="https://www.youtube.com/channel/UCiI4UC4awtn3cRfNQqF15ZQ" target="_blank" class="social-icon-sm si-gray-round">
                             <i class="fa fa-youtube"></i>
                             <i class="fa fa-youtube"></i>
                         </a>
