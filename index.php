@@ -278,28 +278,28 @@ include('includes/top-of-page.php');
                 <div class="cbp-item web-design">
                     <a class="cbp-caption cbp-lightbox" data-title="Item Two<br>by Someone" href="img/img-1.jpg">
                         <div class="cbp-caption-defaultWrap">
-                            <img src="img/img-1.jpg" alt="">
+                            <img src="img/why-choose/siemens.jpg" alt="">
                         </div>
                         <div class="cbp-caption-activeWrap">
                             <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                    <div class="cbp-l-caption-title">Item Two</div>
-                                    <div class="cbp-l-caption-desc">Biotechnology</div>
+                                    <div class="cbp-l-caption-title">Siemens</div>
+                                    <div class="cbp-l-caption-desc">Tomorrow’s smart grid</div>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="cbp-item graphic identity">
-                    <a class="cbp-caption cbp-lightbox" data-title="Item Three" href="img/img-2.jpg">
+                    <a class="cbp-caption cbp-lightbox" data-title="Item Three" href="https://www.youtube.com/watch?v=WxPu1usBBuo">
                         <div class="cbp-caption-defaultWrap">
-                            <img src="img/img-2.jpg" alt="">
+                            <img src="img/why-choose/luminultra.jpg" alt="">
                         </div>
                         <div class="cbp-caption-activeWrap">
                             <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                    <div class="cbp-l-caption-title">Item Three</div>
-                                    <div class="cbp-l-caption-desc">Information Technology</div>
+                                    <div class="cbp-l-caption-title">Luminultra</div>
+                                    <div class="cbp-l-caption-desc">Jumpstarting a business</div>
                                 </div>
                             </div>
                         </div>
