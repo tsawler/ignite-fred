@@ -503,7 +503,7 @@ p.lead {
   -moz-box-shadow: rgba(0, 0, 0, 0.11765) 0px 1px 3px;
   -ms-box-shadow: rgba(0, 0, 0, 0.11765) 0px 1px 3px;
   box-shadow: rgba(0, 0, 0, 0.11765) 0px 1px 3px;*/
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 1);
   clear: both;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
