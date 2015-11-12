@@ -123,7 +123,7 @@
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam,
                         </p>
-                        <form role="form" class="subscribe-form">
+                        <form class="subscribe-form">
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="Enter email to subscribe">
                                 <span class="input-group-btn">
