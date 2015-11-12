@@ -148,9 +148,9 @@ include('includes/top-of-page.php');
 
         <div class="cube-masonry">
 
-            <div id="masnory-container-value-prop" class="cbp">
+            <div id="whychoose" class="cbp">
 
-                <div class="cbp-item valprop">
+                <div class="cbp-item valprop col-md-3">
                     <a class="cbp-caption cbp-lightbox" data-title="Young Smart Workforce" href="img/mas-1.jpg">
                         <div class="cbp-caption-defaultWrap">
                             <img src="img/value-prop/typing.jpg" alt="">
@@ -159,7 +159,7 @@ include('includes/top-of-page.php');
                             <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
                                     <div class="cbp-l-caption-title">Young Smart Workforce</div>
-                                    <div class="cbp-l-caption-desc">Lorem Ipsum</div>
+                                    <div class="cbp-l-caption-desc pad2em">Our young, taleneted workforce has exactly the kinds of skills your company is looking for.</div>
                                 </div>
                             </div>
                         </div>
@@ -175,7 +175,7 @@ include('includes/top-of-page.php');
                             <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
                                     <div class="cbp-l-caption-title">Cost Advantage</div>
-                                    <div class="cbp-l-caption-desc">Lorem Ipsum</div>
+                                    <div class="cbp-l-caption-desc">Find out why our cost structure is so attractive, and why it makes sense to make Fredericton your number one choice for business investment.</div>
                                 </div>
                             </div>
                         </div>
@@ -191,7 +191,7 @@ include('includes/top-of-page.php');
                             <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
                                     <div class="cbp-l-caption-title">The Living Lab</div>
-                                    <div class="cbp-l-caption-desc">Lorem ipsum</div>
+                                    <div class="cbp-l-caption-desc pad2em">Our strengths in engineering, biotechnology, and a wide variety of highly attractive markets are, quite simply, outstanding. Find out more.</div>
                                 </div>
                             </div>
                         </div>
@@ -207,7 +207,7 @@ include('includes/top-of-page.php');
                             <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
                                     <div class="cbp-l-caption-title">Superb Lifestyle</div>
-                                    <div class="cbp-l-caption-desc">Lorem Ipsum</div>
+                                    <div class="cbp-l-caption-desc pad2em">You will be hard-pressed to find a location that is more attractive than Fredericton. </div>
                                 </div>
                             </div>
                         </div>
@@ -277,7 +277,7 @@ include('includes/top-of-page.php');
                     </a>
                 </div>
                 <div class="cbp-item web-design">
-                    <a class="cbp-caption cbp-lightbox" data-title="Item Two<br>by Someone" href="img/img-1.jpg">
+                    <a class="cbp-caption cbp-lightbox" data-title="Siemens" href="img/img-1.jpg">
                         <div class="cbp-caption-defaultWrap">
                             <img src="img/why-choose/siemens.jpg" alt="">
                         </div>
@@ -292,7 +292,7 @@ include('includes/top-of-page.php');
                     </a>
                 </div>
                 <div class="cbp-item graphic identity">
-                    <a class="cbp-caption cbp-lightbox" data-title="Item Three" href="https://www.youtube.com/watch?v=WxPu1usBBuo">
+                    <a class="cbp-caption cbp-lightbox" data-title="Luminultra" href="https://www.youtube.com/watch?v=WxPu1usBBuo">
                         <div class="cbp-caption-defaultWrap">
                             <img src="img/why-choose/luminultra.jpg" alt="">
                         </div>
@@ -306,7 +306,7 @@ include('includes/top-of-page.php');
                         </div>
                     </a>
                 </div>
-                <div class="cbp-item graphic">
+                <div class="cbp-item graphic web-design">
                     <a class="cbp-caption cbp-lightbox" data-title="Item Four" href="img/mas-2.jpg">
                         <div class="cbp-caption-defaultWrap">
                             <img src="img/mas-2.jpg" alt="">
@@ -427,7 +427,7 @@ include('includes/top-of-page.php');
                     </a>
                 </div>
                 <div class="cbp-item web-design graphic">
-                    <a class="cbp-caption cbp-lightbox" data-title="Item 12" href="img/img-8.jpg">
+                    <a class="cbp-caption cbp-lightbox" data-title="Item Twelve" href="img/img-8.jpg">
                         <div class="cbp-caption-defaultWrap">
                             <img src="img/img-8.jpg" alt="">
                         </div>

@@ -203,6 +203,11 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready( function() {
+     $('#whychoose').cubeportfolio({
+     });
+});
+
 $(document).ready(function(){
 
     $('#masnory-container-value-prop').cubeportfolio({

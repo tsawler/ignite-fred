@@ -1,10 +1,4 @@
-/*Theme    : assan
- * Author  : Design_mylife
- * Version : V1.8
- *
- */
-
- $( window ).resize(function() {
+$( window ).resize(function() {
     $(".navbar-collapse").css({ maxHeight: $(window).height() - $(".navbar-header").height() + "px" });
 });
 //sticky header on scroll
