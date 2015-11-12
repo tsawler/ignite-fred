@@ -234,7 +234,7 @@ include('includes/top-of-page.php');
             </div>
         </div>
     </div>
-    <div class="container">
+    <div class="container hidden-xs">
         <div class="cube-masonry">
 
             <div id="filters-container" class="cbp-l-filters-alignCenter">
