@@ -5198,7 +5198,7 @@ body.invoice {
   .navbar-right .dropdown-menu {
     right: 0;
     left: auto;
-    top: 60px;
+    top: 45px;
   }
 }
 .invoice-header-right h5 {
