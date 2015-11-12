@@ -88,7 +88,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #32c5d2;
+  color: #fd8500;
   text-decoration: none;
 }
 
@@ -602,8 +602,8 @@ TOP BARS
   border-color: #ddd;
 }
 
-.top-bar-light .top-dark-right li a:hover {
-  color: #32c5d2;
+.top-bar-light .top-dark-right li a:hover .top-bar-light a:hover {
+  color: #fd8500;
 }
 
 .top-bar-socials {
@@ -6413,13 +6413,13 @@ SOCIAL BUTTONS
   height: 30px;
   font-size: 18px;
   line-height: 30px !important;
-  color: #555;
+  color: #bbb;
   text-shadow: none;
   border-radius: 3px;
   overflow: hidden;
   display: inline-block;
   text-align: center;
-  border: 1px solid #AAA;
+  border: 1px solid #bbb;
 }
 .social-icon-sm:hover {
   /*border-color: transparent;*/
