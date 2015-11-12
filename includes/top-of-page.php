@@ -71,19 +71,15 @@
                                 <i class="fa fa-phone"></i> 506.444.4686
                             </a>
                         </li>
-                        <li>
-                            <a class="topbar-icons" href="#!">
-                                <span><i class="fa fa-search top-search"></i></span>
-                            </a>
-                        </li>
+                        <li class="hidden-xs">
+                            <div id="search-form" style="line-height: 12px">
+                    	        	<form method="POST" action="" accept-charset="UTF-8">
+                    	              <input class="search-text-box" name="searchterm" type="text">
+                    	            </form>
+                    	        </div>
+                             </div>
+                         </li>
                     </ul>
-                    <div class="search">
-                        <form>
-                            <input type="text" class="form-control" autocomplete="off" placeholder="Search...">
-                            <span class="search-close"><i class="fa fa-times"></i></span>
-                        </form>
-                    </div>
-
                 </div>
             </div>
         </div>
