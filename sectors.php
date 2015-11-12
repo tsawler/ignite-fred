@@ -34,7 +34,7 @@
 
     <div class="row">
         <div class="col-md-3">
-            <div id="natural-resources">
+            <div id="natural-resources" class="flipcard">
                 <div class="front">
                     <img src="img/sectors/natural-resources.jpg" alt="" class="img img-responsive">
                     <br>
@@ -52,7 +52,7 @@
             </div>
         </div>
         <div class="col-md-3">
-            <div id="information-technology">
+            <div id="information-technology" class="flipcard">
                 <div class="front">
                     <img src="img/sectors/information-technology.jpg" alt="" class="img img-responsive">
                     <br>
@@ -70,7 +70,7 @@
             </div>
         </div>
         <div class="col-md-3">
-            <div id="engineering">
+            <div id="engineering" class="flipcard">
                 <div class="front">
                     <img src="img/sectors/engineering.jpg" alt="" class="img img-responsive">
                     <br>
@@ -88,7 +88,7 @@
             </div>
         </div>
         <div class="col-md-3">
-            <div id="biotechnology">
+            <div id="biotechnology" class="flipcard">
                 <div class="front">
                     <img src="img/sectors/biotechnology.jpg" alt="" class="img img-responsive">
                     <br>

@@ -235,5 +235,14 @@ span.ignite-icon:hover {
     margin: 0 auto;
 }
 
+
+/* flips */
+@media (max-width: 768px) {
+    .flipcard {
+            min-height: 399px;
+            margin-bottom: 2em;
+    }
+}
+
 /* hack for scroll bar horiz */
 body { overflow-x: hidden;}
