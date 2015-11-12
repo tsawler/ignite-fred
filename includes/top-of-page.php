@@ -78,7 +78,7 @@
                         </li>
                     </ul>
                     <div class="search">
-                        <form role="form">
+                        <form>
                             <input type="text" class="form-control" autocomplete="off" placeholder="Search...">
                             <span class="search-close"><i class="fa fa-times"></i></span>
                         </form>
@@ -89,7 +89,7 @@
         </div>
     </div>
     <!--top-bar-dark end-->
-    
+
     <!--navigation -->
     <!-- Static navbar -->
     <div class="navbar navbar-default navbar-static-top yamm sticky" role="navigation">
@@ -112,7 +112,7 @@
 
                     <li class="dropdown ">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Invest Fredericton <i class="fa fa-angle-down"></i></a>
-                        <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+                        <ul class="dropdown-menu" role="menu">
                             <li><a href="#">Labour Force</a></li>
                             <li><a href="#">Operating Costs</a></li>
                             <li><a href="#">Location &amp; Markets</a></li>
@@ -125,7 +125,7 @@
 
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle " data-toggle="dropdown">How We Can Help <i class="fa fa-angle-down"></i></a>
-                        <ul class="dropdown-menu multi-level" role="menu">
+                        <ul class="dropdown-menu" role="menu">
                             <li><a href="#">Visas &amp; Immigration</a></li>
                             <li><a href="#">Funding</a></li>
                             <li><a href="#">Start-Ups</a></li>

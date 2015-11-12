@@ -21,7 +21,7 @@ include('includes/top-of-page.php');
 
 
     <!-- slider start-->
-    <div id="carousel-slider" class="carousel slide carousel-fade hidden-xs" data-pause="hover" data-ride="carousel" data-interval="4500" data-pause="">
+    <div id="carousel-slider" class="carousel slide carousel-fade hidden-xs" data-pause="hover" data-ride="carousel" data-interval="4500">
 
         <ol class="carousel-indicators">
             <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
@@ -45,7 +45,7 @@ include('includes/top-of-page.php');
             <div class="item">
                 <img src="img/slider/city.jpg" alt="">
                 <div class="carousel-caption banner-text">
-                    <h3></h3>
+                    <h3>&nbsp;</h3>
                 </div>
             </div>
 
