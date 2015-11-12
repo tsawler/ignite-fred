@@ -175,7 +175,7 @@ include('includes/top-of-page.php');
                             <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
                                     <div class="cbp-l-caption-title">Cost Advantage</div>
-                                    <div class="cbp-l-caption-desc">Find out why our cost structure is so attractive, and why it makes sense to make Fredericton your number one choice for business investment.</div>
+                                    <div class="cbp-l-caption-desc pad2em">Find out why our cost structure is so attractive, and why it makes sense to make Fredericton your number one choice for business investment.</div>
                                 </div>
                             </div>
                         </div>
