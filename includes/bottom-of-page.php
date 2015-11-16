@@ -141,20 +141,20 @@
 <!--scripts and plugins -->
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery-migrate.min.js"></script>
-<script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/jquery.sticky.js"></script>
-<script src="js/jquery.stellar.min.js" type="text/javascript"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="js/jquery.easing.1.3.min.js"></script>
+<script src="js/jquery.sticky.js"></script>
+<script src="js/jquery.stellar.min.js"></script>
 <script src="js/waypoints.min.js"></script>
-<script src="js/wow.min.js" type="text/javascript"></script>
-<script src="js/owl.carousel.min.js" type="text/javascript"></script>
-<script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
-<script src="js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
-<script src="js/custom.js" type="text/javascript"></script>
-<script src="cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
-<script src="js/cube-portfolio.js" type="text/javascript"></script>
-<script src="js/pace.min.js" type="text/javascript"></script>
-<script src="js/flip/flip.js" type="text/javascript"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/jquery.mb.YTPlayer.min.js"></script>
+<script src="js/custom.js"></script>
+<script src="cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+<script src="js/cube-portfolio.js"></script>
+<script src="js/pace.min.js"></script>
+<script src="js/flip/flip.js"></script>
 
 <script>
 $(document).ready(function(){
